@@ -16,4 +16,7 @@ tags:
 - Self-Adaptation
 - Software Architecture
 - Systematic Mapping Study
+# Display this page in the Featured widget?
+featured: true
 ---
+
