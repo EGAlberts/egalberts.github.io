@@ -58,6 +58,6 @@ education:
 highlight_name: true
 ---
 
-Elvin Alberts is a PhD Candidate at both the Computer Science department of the Vrije Universiteit Amsterdam and Cognitive Robotics department at the Technical University of Delft. His research interests include self-adaptive system and software architecture, specifically that of robotics systems. At the VU Amsterdam he is a member of the Software and Sustainability group, and at TU Delft he is a member of the Knowledge-based Autonomous
+Elvin Alberts is a PhD Candidate at both the Computer Science department of the Vrije Universiteit Amsterdam and Cognitive Robotics department at the Technical University of Delft. His research interests include self-adaptive systems and software architecture, specifically that of robotics systems. At the VU Amsterdam he is a member of the Software and Sustainability group, and at TU Delft he is a member of the Knowledge-based Autonomous
 Systems laboratory. 
 {style="text-align: justify;"}
