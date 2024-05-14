@@ -9,9 +9,9 @@ name_pronunciation: ''
 first_name: Elvin
 last_name: Alberts
 
-# Status emoji
-status:
-  icon: 
+# # Status emoji
+# status:
+#   icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -44,15 +44,15 @@ education:
       institution: Vrije Universiteit Amsterdam
       year: 2020
 
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills: ''
+# # Skills
+# # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+# skills: ''
 
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social: ''
+# # Social/Academic Networking
+# # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+# #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+# #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+# social: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
