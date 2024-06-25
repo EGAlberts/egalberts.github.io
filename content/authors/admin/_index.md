@@ -23,7 +23,7 @@ role: PhD Candidate
 organizations:
   - name: Vrije Universiteit Amsterdam
     url: https://s2group.cs.vu.nl/
-  - name: Technical University of Delft
+  - name: Delft University of Technology
     url: https://kas-lab.github.io/
 
 # Short bio (displayed in user profile at end of posts)
