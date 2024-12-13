@@ -20,4 +20,6 @@ tags:
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S0164121224003029
+# Display this page in the Featured widget?
+featured: true
 ---
